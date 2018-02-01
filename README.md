@@ -1,1 +1,1 @@
-</http://<\marquee\><a>hello
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
