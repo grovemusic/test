@@ -1,2 +1,1 @@
-
-<A HREF="javascript:alert(9)" itemprop="url">XSS</A>
+</xss:xss><svg/onload=alert(1)>
