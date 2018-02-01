@@ -1,1 +1,1 @@
-</xss:xss><svg/onload=alert(1)>
+</http://<\marquee\><a>hello
